@@ -13,7 +13,7 @@ Meting后端的基础是一个[接口](https://github.com/metowolf/Meting/blob/m
 - 纯js实现，化简api结构
 - 适配多个PaaS平台，一键部署
 - 采用jsonp解决Tencent系地区限制
-- 插件系统，编写新接口及音源简单
+- 插件系统，编写新接口音源简单
 
 ## 进度
 
